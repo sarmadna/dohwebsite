@@ -1,0 +1,12 @@
+@font-face {
+    font-family: ubuntuKurdish;
+    src: url(Ubuntu-Kurdish-Kurdfont.ttf);
+}
+
+#text_rtl {
+    font-family: ubuntuKurdish;
+}
+
+#text_ltr {
+    font-family: 'Ubuntu', serif;
+}
