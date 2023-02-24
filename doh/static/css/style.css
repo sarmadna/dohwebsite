@@ -3,10 +3,14 @@
     src: url(Ubuntu-Kurdish-Kurdfont.ttf);
 }
 
-#text_rtl {
+.font-rtl {
     font-family: ubuntuKurdish;
 }
 
-#text_ltr {
+.font-ltr {
     font-family: 'Ubuntu', serif;
+}
+
+.bg-official {
+    background-color: #c1a04d;
 }
